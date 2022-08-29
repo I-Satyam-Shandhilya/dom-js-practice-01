@@ -1,0 +1,18 @@
+.modify{
+    background-color: red;
+    color: white;
+    height: 90px;
+    width: 100px;
+}
+
+.bold{
+    font-weight: bold;
+}
+
+.green-bg{
+    background-color: green;
+}
+
+.box{
+    background-color: blue;
+}
